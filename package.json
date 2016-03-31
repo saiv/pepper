@@ -36,7 +36,6 @@
     "expr": true
   },
   "jspm": {
-      "registry": "jspm",
       "main": "pepper",
       "format": "amd",
       "directories": {
