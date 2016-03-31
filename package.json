@@ -2,7 +2,7 @@
   "name": "chilli-pepper",
   "version": "1.2.0",
   "description": "Tiny JS client library for CoovaChilli JSON Interface",
-  "main": "index.js",
+  "main": "dist/pepper.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/mpangrazzi/pepper.git"
